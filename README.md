@@ -21,7 +21,6 @@ View my project [here](https://github.com/qanhnn12/DataCamp-Python-projects/tree
 * Convert strings to DateTime using ```pd.to_datetime```
 * Merge the DataFrame using ```df.merge```
 * Extract a component of a DateTime column using ```df['column'].dt.component```
-* Group by with ```df.groupby```
 * Pivot table with ```df.pivot_table```
 * Plot data using ```df.plot```
 * Use ```set()``` to identify unique data
