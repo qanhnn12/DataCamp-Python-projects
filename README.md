@@ -2,7 +2,9 @@
 ## 📊 Guided projects
 
 ### 1. Generating Keywords for Google Ads
-🔑 Key learnings
+<details><summary>Key learnings</summary>
+<p>
+
 * Use module ```pprint``` to “pretty-print” a list
 * Use module ```pandas``` to convert a list into a DataFrame
 * Add a new column to the DataFrame
@@ -13,10 +15,16 @@
 * Save the DataFrame to a CSV file using ```df.to_csv```
 * Group a DataFrame by some columns using ```df.groupby```
 
-View my project [here](https://github.com/qanhnn12/DataCamp-Python-projects/tree/main/Generating%20Keywords%20for%20Google%20Ads)!
+</p>
+</details>
+
+*View my project [here](https://github.com/qanhnn12/DataCamp-Python-projects/tree/main/Generating%20Keywords%20for%20Google%20Ads)!*
+
 
 ### 2. The GitHub History of the Scala Language
-🔑 Key learnings
+<details><summary>Key learnings</summary>
+<p>
+
 * Append a DataFrame vertically to another one using ```df1.append([df2])```
 * Convert strings to DateTime using ```pd.to_datetime```
 * Merge the DataFrame using ```df.merge```
@@ -26,4 +34,7 @@ View my project [here](https://github.com/qanhnn12/DataCamp-Python-projects/tree
 * Use ```set()``` to identify unique data
 * Get the last n rows of a sorted DataFrame using ```df.nlargest```
 
-View my project [here](https://github.com/qanhnn12/DataCamp-Python-projects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)!
+</p>
+</details>
+
+*View my project [here](https://github.com/qanhnn12/DataCamp-Python-projects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)!*
