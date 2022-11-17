@@ -20,7 +20,7 @@ View my project [here](https://github.com/qanhnn12/DataCamp-Python-projects/tree
 * Append a DataFrame vertically to another one using ```df1.append([df2])```
 * Convert strings to DateTime using ```pd.to_datetime```
 * Merge the DataFrame using ```df.merge```
-* Extract a component of a DateTime column using ```df['column'].dt.component```
+* Extract a component (year, month, etc.) of a DateTime column using ```df['column'].dt.component```
 * Pivot table with ```df.pivot_table```
 * Plot data using ```df.plot```
 * Use ```set()``` to identify unique data
