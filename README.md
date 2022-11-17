@@ -9,7 +9,7 @@
 * Rename a column name using ```df.rename```
 * Update column values (rows)
 * Make a copy of the DataFrame using ```df.copy```
-* Append many DataFrames vertically to a new one using ```pd.concat([df1, df2,...])```
+* Append a DataFrame vertically to another one using ```pd.concat([df1, df2])```
 * Save the DataFrame to a CSV file using ```df.to_csv```
 * Group a DataFrame by some columns using ```df.groupby```
 
